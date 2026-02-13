@@ -1,6 +1,6 @@
 # ANN-Based Three-Level Image Encryption System
 
-**Status**: Complete | **Date**: January 23, 2026 | **Reference**: IEEE Access Paper (2024)
+**Status**: Complete | **Date**: February 13, 2026 | **Reference**: IEEE Access Paper (2024)
 
 ## Overview
 
@@ -337,4 +337,4 @@ IEEE Access Paper: "A Faster and Robust Artificial Neural Network Based Image En
 **Author**: Jyot Shah  
 **LinkedIn**: [linkedin.com/in/jyotshah1](https://linkedin.com/in/jyotshah1)  
 **License**: Academic/Research Use  
-**Implementation Date**: January 23, 2026
+**Implementation Date**: February 13, 2026
