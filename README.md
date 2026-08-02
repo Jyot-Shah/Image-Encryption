@@ -1,6 +1,6 @@
 # ANN-Based Three-Level Image Encryption System
 
-**Status**: Complete | **Date**: February 13, 2026 | **Reference**: IEEE Access Paper (2024)
+**Status**: Complete | **Date**: May 13, 2026 | **Reference**: IEEE Access Paper (2024)
 
 ## Overview
 
